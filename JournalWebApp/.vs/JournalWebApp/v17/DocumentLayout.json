@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\kbreenbondie\\OneDrive - Arbor Oakland Group\\Documents\\GitHub\\Journal-Web-App\\JournalWebApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE9BE0C-C3AA-41DA-AF4A-C951BFC7177B}|JournalWebApp.csproj|c:\\users\\kbreenbondie\\onedrive - arbor oakland group\\documents\\github\\journal-web-app\\journalwebapp\\controllers\\journalentriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE9BE0C-C3AA-41DA-AF4A-C951BFC7177B}|JournalWebApp.csproj|solutionrelative:controllers\\journalentriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE9BE0C-C3AA-41DA-AF4A-C951BFC7177B}|JournalWebApp.csproj|c:\\users\\kbreenbondie\\onedrive - arbor oakland group\\documents\\github\\journal-web-app\\journalwebapp\\models\\journalentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE9BE0C-C3AA-41DA-AF4A-C951BFC7177B}|JournalWebApp.csproj|solutionrelative:models\\journalentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JournalEntriesController.cs",
+              "DocumentMoniker": "C:\\Users\\kbreenbondie\\OneDrive - Arbor Oakland Group\\Documents\\GitHub\\Journal-Web-App\\JournalWebApp\\Controllers\\JournalEntriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JournalEntriesController.cs",
+              "ToolTip": "C:\\Users\\kbreenbondie\\OneDrive - Arbor Oakland Group\\Documents\\GitHub\\Journal-Web-App\\JournalWebApp\\Controllers\\JournalEntriesController.cs",
+              "RelativeToolTip": "Controllers\\JournalEntriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T18:47:27.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JournalEntry.cs",
+              "DocumentMoniker": "C:\\Users\\kbreenbondie\\OneDrive - Arbor Oakland Group\\Documents\\GitHub\\Journal-Web-App\\JournalWebApp\\Models\\JournalEntry.cs",
+              "RelativeDocumentMoniker": "Models\\JournalEntry.cs",
+              "ToolTip": "C:\\Users\\kbreenbondie\\OneDrive - Arbor Oakland Group\\Documents\\GitHub\\Journal-Web-App\\JournalWebApp\\Models\\JournalEntry.cs",
+              "RelativeToolTip": "Models\\JournalEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T18:41:10.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
