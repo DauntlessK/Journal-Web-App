@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\kbreenbondie\\OneDrive - Arbor Oakland Group\\Documents\\GitHub\\Journal-Web-App\\JournalWebApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FAE9BE0C-C3AA-41DA-AF4A-C951BFC7177B}|JournalWebApp.csproj|c:\\users\\kbreenbondie\\onedrive - arbor oakland group\\documents\\github\\journal-web-app\\journalwebapp\\data\\migrations\\20250624184128_initialsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE9BE0C-C3AA-41DA-AF4A-C951BFC7177B}|JournalWebApp.csproj|solutionrelative:data\\migrations\\20250624184128_initialsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FAE9BE0C-C3AA-41DA-AF4A-C951BFC7177B}|JournalWebApp.csproj|c:\\users\\kbreenbondie\\onedrive - arbor oakland group\\documents\\github\\journal-web-app\\journalwebapp\\controllers\\journalentriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FAE9BE0C-C3AA-41DA-AF4A-C951BFC7177B}|JournalWebApp.csproj|solutionrelative:controllers\\journalentriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20250624184128_initialsetup.cs",
+              "DocumentMoniker": "C:\\Users\\kbreenbondie\\OneDrive - Arbor Oakland Group\\Documents\\GitHub\\Journal-Web-App\\JournalWebApp\\Data\\Migrations\\20250624184128_initialsetup.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250624184128_initialsetup.cs",
+              "ToolTip": "C:\\Users\\kbreenbondie\\OneDrive - Arbor Oakland Group\\Documents\\GitHub\\Journal-Web-App\\JournalWebApp\\Data\\Migrations\\20250624184128_initialsetup.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250624184128_initialsetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T18:41:29.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "JournalEntriesController.cs",
               "DocumentMoniker": "C:\\Users\\kbreenbondie\\OneDrive - Arbor Oakland Group\\Documents\\GitHub\\Journal-Web-App\\JournalWebApp\\Controllers\\JournalEntriesController.cs",
               "RelativeDocumentMoniker": "Controllers\\JournalEntriesController.cs",
@@ -35,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "JournalEntry.cs",
               "DocumentMoniker": "C:\\Users\\kbreenbondie\\OneDrive - Arbor Oakland Group\\Documents\\GitHub\\Journal-Web-App\\JournalWebApp\\Models\\JournalEntry.cs",
               "RelativeDocumentMoniker": "Models\\JournalEntry.cs",
@@ -43,8 +60,7 @@
               "RelativeToolTip": "Models\\JournalEntry.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T18:41:10.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T18:41:10.749Z"
             }
           ]
         }
