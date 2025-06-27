@@ -25,6 +25,12 @@ namespace JournalWebApp.Controllers
             return View(await _context.JournalEntry.ToListAsync());
         }
 
+        // GET: JournalEntries/ShowSearchForm
+        public async Task<IActionResult> ShowSearchForm()
+        {
+            return View();
+        }
+
         // GET: JournalEntries/Details/5
         public async Task<IActionResult> Details(int? id)
         {
